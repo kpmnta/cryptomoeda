@@ -47,21 +47,21 @@
     }
     
     .header-row {
-        width: 90%;
+        width: 90vw;
         font-size: 12px;
     }
     
     .header-identifier {
-        width: 100px;
+        width: 120px;
         padding-right: 0;
     }
     
     .header-price {
-        padding-left: 0;
+        padding-left: 30px;
     }
     
     .header-percent {
-        padding-right: 0;
+        padding-right: 10px;
     }
     
 }
